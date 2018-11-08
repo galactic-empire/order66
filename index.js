@@ -11,4 +11,4 @@ module.exports = {
   execute: function () {
     return 'It will be done, My Lord.'
   }
-}
+};
