@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-<a href="https://badge.fury.io/js/order66">
+<a href="https://www.npmjs.com/package/order66">
   <img src="https://badge.fury.io/js/order66.svg" alt="npm version" height="18">
 </a>
-<a href="https://www.npmjs.com/package/order66">
+<a href="https://travis-ci.org/galactic-empire/order66">
   <img src="https://travis-ci.org/galactic-empire/order66.svg?branch=master" alt="Travis-CI status" height="18">
 </a>
 </p>

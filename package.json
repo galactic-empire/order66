@@ -1,7 +1,7 @@
 {
   "name": "order66",
   "description": "Order 66, also known as Clone Protocol 66, was a top secret order identifying all Jedi as traitors to the Galactic Republic and, therefore, subject to summary execution by the Grand Army of the Republic.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/galactic-empire/order66#readme",
   "author": "Marcin Łesek (https://github.com/marcinlesek)",
   "contributors": [
