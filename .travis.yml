@@ -1,17 +1,17 @@
 language: node_js
 
 node_js:
-- "4"
+  - "8"
 
 sudo: false
 
 cache:
   yarn: true
   directories:
-  - node_modules
+    - node_modules
 
 install:
-- yarn
+  - yarn
 
 script:
-- yarn test
+  - yarn test
